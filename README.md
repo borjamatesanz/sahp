@@ -19,7 +19,7 @@
     <section>
       <h1>Valores Medioambientales</h1>
       <p>
-        <!-- Aquí puedes agregar el contenido relacionado con los valores medioambientales -->
+        <test valores>
       </p>
     </section>
 
