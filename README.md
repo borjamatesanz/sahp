@@ -10,7 +10,7 @@
   <!-- Encabezado de la página -->
   <header>
     <nav>
-      <!-- Aquí puedes agregar el menú de navegación -->
+      <Menu 1>
     </nav>
   </header>
 
