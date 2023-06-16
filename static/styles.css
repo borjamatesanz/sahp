@@ -19,6 +19,8 @@ header {
   background-color: #333;
   color: #ff6347;
   padding: 20px;
+  display: flex;
+  justify-content: flex-end; /* Move navigation to the right */
 }
 
 header h1 {
