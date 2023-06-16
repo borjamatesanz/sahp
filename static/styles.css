@@ -125,7 +125,7 @@ a:hover {
 
 /* Mostrar el menú cuando se hace clic en el botón */
 .menu-button.active + .menu {
-  display: block;
+  display: none;
 }
 
 
