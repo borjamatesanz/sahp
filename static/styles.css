@@ -23,7 +23,7 @@ header {
   color: #ff6347;
   padding: 20px;
   display: flex;
-  justify-content: flex-end; /* Move navigation to the right */
+  justify-content: flex-start ; /* Move navigation to the right */
 }
 
 header h1 {
