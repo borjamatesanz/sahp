@@ -67,6 +67,9 @@ section {
 section h1 {
   font-size: 24px;
   margin-bottom: 10px;
+  background-image: url("sources\Albaricoque_1_Compacto-1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 section p {
